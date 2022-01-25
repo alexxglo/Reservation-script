@@ -1,0 +1,5 @@
+username user
+password 1234
+day_selected 2
+gym_selected 437
+class_selected 2
